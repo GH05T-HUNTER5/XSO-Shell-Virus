@@ -21,5 +21,14 @@ If there is no permission
 `chmod +x Kill-Virus
 `
 
+Or
+
+`
+chmod 7777 Kill-Virus
+`
+
+Then
+
+
 `./Kill-Virus
 `
