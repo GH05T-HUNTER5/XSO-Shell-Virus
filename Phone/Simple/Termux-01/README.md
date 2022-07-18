@@ -3,7 +3,7 @@ We are not responsible for any damage to your phone
 ```
 
 `
-$ unzip
+$ unzip Termux-01.zip
 `
 
 ```
